@@ -28,7 +28,7 @@ import { Link } from "react-router-dom";
 const API_URL = "https://my-cse-section-2.onrender.com/api/section-ai";
 
 const starterQuestions = [
-  "What is our timetable for tomorrow?",
+  "What is our timetable for Monday?",
   "Tell me about CSE Section 2.",
   "Who are our faculty members?",
   "What is the Syllabus of compiler Design",
