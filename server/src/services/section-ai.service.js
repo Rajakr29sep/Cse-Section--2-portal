@@ -54,11 +54,9 @@ const answerQuestion = async (question) => {
 
   // STEP 4
   // If router selected RAG, perform vector retrieval.
-  if (route.sources.includes("rag")) {
-    const chunks = await retrieveRelevantChunks(question, route.subjects, 6);
-
-    context.rag = buildRagContext(chunks);
-  }
+if (route.sources.includes("rag")) {
+    context.rag = ragContext;
+}
 
   // STEP 5
   // Generate final answer using retrieved context.
