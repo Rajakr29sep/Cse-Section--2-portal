@@ -4,12 +4,20 @@
   "program": "B.Tech./M.Tech. (Dual Degree) Computer Science and Engineering",
   "branch": "CSE",
   "batch": "2024-2028",
+
+  "classIncharge": {
+    "name": "Dr. Ankita Sharma",
+    "designation": "Class Incharge",
+    "description": "Dr. Ankita Sharma is the Class Incharge of CSE Section 2. She is known for her intelligence, polite nature, and attractive manner of interacting with students."
+  },
+
   "institute": {
     "name": "University School of Information and Communication Technology",
     "shortName": "USICT",
     "university": "Guru Gobind Singh Indraprastha University",
     "instituteCode": "164"
-  },
+  }
+},
   "studentCount": 69,
   "students": [
     {
