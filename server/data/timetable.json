@@ -1,0 +1,172 @@
+[
+  {
+    "day": "Monday",
+    "start": "1:30 PM",
+    "end": "3:30 PM",
+    "subjectCode": "EAE 355T",
+    "subjectName": "Statistics and Statistical Modelling",
+    "faculty": "Ms. Kashika Wadhwa",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Monday",
+    "start": "3:30 PM",
+    "end": "5:30 PM",
+    "subjectCode": "PC 303",
+    "subjectName": "Compiler Design",
+    "faculty": "Ms. Richa",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Tuesday",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "subjectCode": "EAE 355T",
+    "subjectName": "Statistics and Statistical Modelling",
+    "faculty": "Ms. Kashika Wadhwa",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Tuesday",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "subjectCode": "PE 333T",
+    "subjectName": "Natural Language Processing",
+    "faculty": "Dr. Ankita Sharma",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Tuesday",
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "subjectCode": "PC 303",
+    "subjectName": "Compiler Design",
+    "faculty": "Ms. Richa",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Wednesday",
+    "start": "1:30 PM",
+    "end": "3:30 PM",
+    "subjectCode": "PE 333T",
+    "subjectName": "Natural Language Processing",
+    "faculty": "Dr. Ankita Sharma",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Wednesday",
+    "start": "3:30 PM",
+    "end": "5:30 PM",
+    "subjectCode": "PC 321",
+    "subjectName": "Compiler Design Lab",
+    "faculty": "TBA",
+    "room": "NBLAB2",
+    "type": "Lab"
+  },
+  {
+    "day": "Thursday",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "subjectCode": "PC 301",
+    "subjectName": "Technical and Scientific Writing",
+    "faculty": "RS Manisha Sharma",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Thursday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "subjectCode": "PC 349T",
+    "subjectName": "",
+    "faculty": "CF Dr. Reena Tripathi",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Thursday",
+    "start": "11:00 AM",
+    "end": "1:00 PM",
+    "subjectCode": "PC 305",
+    "subjectName": "Programming in C++",
+    "faculty": "CF Mr. Harshit Kumar",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Thursday",
+    "start": "1:30 PM",
+    "end": "3:30 PM",
+    "subjectCode": "PE 333P",
+    "subjectName": "Natural Language Processing Lab",
+    "faculty": "CF Dr. Ankita Sharma",
+    "room": "NBLAB2",
+    "type": "Practical"
+  },
+  {
+    "day": "Thursday",
+    "start": "3:30 PM",
+    "end": "5:30 PM",
+    "subjectCode": "PC 323",
+    "subjectName": "Programming in C++ Lab",
+    "faculty": "CF Mr. Harshit Kumar",
+    "room": "NBLAB2",
+    "type": "Practical"
+  },
+  {
+    "day": "Friday",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "subjectCode": "PC 301",
+    "subjectName": "Technical and Scientific Writing",
+    "faculty": "RS Manisha Sharma",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Friday",
+    "start": "10:00 AM",
+    "end": "12:00 PM",
+    "subjectCode": "PC 349T",
+    "subjectName": "",
+    "faculty": "CF Dr. Reena Tripathi",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Friday",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "subjectCode": "PC 305",
+    "subjectName": "Programming in C++",
+    "faculty": "CF Mr. Harshit Kumar",
+    "room": "ECR 601",
+    "type": "Theory"
+  },
+  {
+    "day": "Friday",
+    "start": "1:30 PM",
+    "end": "3:30 PM",
+    "subjectCode": "EAE 355P",
+    "subjectName": "Statistics and Statistical Modelling Lab",
+    "faculty": "TBA",
+    "room": "NBLAB2",
+    "type": "Practical"
+  },
+  {
+    "day": "Friday",
+    "start": "3:30 PM",
+    "end": "5:30 PM",
+    "subjectCode": "PC 349P",
+    "subjectName": "",
+    "faculty": "CF Dr. Reena Tripathi",
+    "room": "NBLAB2",
+    "type": "Practical"
+  }
+]

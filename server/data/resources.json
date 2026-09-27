@@ -1,0 +1,16 @@
+{
+  "question_papers": [
+    {
+      "name": "GGSIPU Online",
+      "url": "https://www.ggsipuonline.com/",
+      "description": "GGSIPU previous-year question papers"
+    }
+  ],
+  "study_material": [
+    {
+      "name": "Dotnotes",
+      "url": "https://dotnotes.in/",
+      "description": "GGSIPU study material and academic resources"
+    }
+  ]
+}

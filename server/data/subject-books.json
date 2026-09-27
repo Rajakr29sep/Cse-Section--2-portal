@@ -1,0 +1,328 @@
+[
+  {
+    "subjectCode": "PC 301",
+    "subjectName": "Technical and Scientific Writing",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "The Craft of Scientific Writing",
+        "author": "M. Alley",
+        "edition": "4th ed.",
+        "year": 2018
+      },
+      {
+        "type": "textbook",
+        "title": "The Science of Scientific Writing",
+        "author": "G. D. Gopen and J. A. Swan",
+        "year": 1990
+      },
+      {
+        "type": "reference",
+        "title": "The Elements of Style",
+        "author": "W. Strunk Jr. and E. B. White",
+        "edition": "4th ed.",
+        "year": 2000
+      },
+      {
+        "type": "reference",
+        "title": "How to Write and Publish a Scientific Paper",
+        "author": "R. Day and B. Gastel",
+        "edition": "8th ed.",
+        "year": 2016
+      },
+      {
+        "type": "reference",
+        "title": "Writing for Science and Engineering",
+        "author": "A. J. Silyn-Roberts",
+        "edition": "2nd ed.",
+        "year": 2012
+      },
+      {
+        "type": "reference",
+        "title": "Handbook of Writing for the Mathematical Sciences",
+        "author": "N. J. Higham",
+        "edition": "2nd ed.",
+        "year": 1998
+      },
+      {
+        "type": "reference",
+        "title": "Style: Lessons in Clarity and Grace",
+        "author": "J. M. Williams and J. Bizup",
+        "edition": "12th ed.",
+        "year": 2016
+      }
+    ]
+  },
+
+  {
+    "subjectCode": "PC 303",
+    "subjectName": "Compiler Design",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "Compilers: Principles, Techniques, and Tools",
+        "author": "A. V. Aho, M. S. Lam, R. Sethi, and J. D. Ullman",
+        "edition": "2nd ed.",
+        "year": 2007
+      },
+      {
+        "type": "textbook",
+        "title": "Engineering a Compiler",
+        "author": "K. D. Cooper and L. Torczon",
+        "edition": "2nd ed.",
+        "year": 2011
+      },
+      {
+        "type": "reference",
+        "title": "Compiler Construction: Principles and Practice",
+        "author": "D. M. Dhamdhere",
+        "edition": "2nd ed.",
+        "year": 2008
+      },
+      {
+        "type": "reference",
+        "title": "Advanced Compiler Design and Implementation",
+        "author": "S. S. Muchnick",
+        "year": 1997
+      },
+      {
+        "type": "reference",
+        "title": "Writing Compilers and Interpreters: A Software Engineering Approach",
+        "author": "R. Mak",
+        "edition": "3rd ed.",
+        "year": 2009
+      },
+      {
+        "type": "reference",
+        "title": "Compiler Construction: Principles and Practice",
+        "author": "K. C. Louden",
+        "year": 1997
+      },
+      {
+        "type": "reference",
+        "title": "Lex & Yacc",
+        "author": "J. R. Levine, T. Mason, and D. Brown",
+        "edition": "2nd ed.",
+        "year": 1992
+      }
+    ]
+  },
+
+  {
+    "subjectCode": "PC 305",
+    "subjectName": "Programming in C++",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "C++ Primer",
+        "author": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
+        "year": 2012
+      },
+      {
+        "type": "textbook",
+        "title": "Using the C++ Standard Template Libraries",
+        "author": "Ivor Horton",
+        "year": 2015
+      },
+      {
+        "type": "textbook",
+        "title": "Object Oriented Programming using C++",
+        "author": "R. Lafore",
+        "edition": "4th ed.",
+        "year": 2008
+      },
+      {
+        "type": "reference",
+        "title": "Mastering C++",
+        "author": "A. R. Venugopal, Rajkumar, T. Ravishanker",
+        "year": 2013
+      },
+      {
+        "type": "reference",
+        "title": "Programming: Principles and Practice Using C++",
+        "author": "Bjarne Stroustrup",
+        "edition": "Latest Ed."
+      },
+      {
+        "type": "reference",
+        "title": "A Tour of C++",
+        "author": "Bjarne Stroustrup",
+        "edition": "Latest Ed."
+      },
+      {
+        "type": "reference",
+        "title": "The C++ Programming Language",
+        "author": "Bjarne Stroustrup",
+        "edition": "4th ed.",
+        "year": 2013
+      },
+      {
+        "type": "reference",
+        "title": "C++17 Standard Library Quick Reference: A Pocket Guide to Data Structures, Algorithms, and Functions",
+        "author": "Peter Van Weert and Marc Gregoire",
+        "year": 2019
+      },
+      {
+        "type": "reference",
+        "title": "Objected Oriented Programming with C++",
+        "author": "E. Balaguruswamy",
+        "year": 2026
+      },
+      {
+        "type": "reference",
+        "title": "The Art of Programming Computer Science with C++",
+        "author": "Steven C. Lawlor",
+        "year": 1997
+      },
+      {
+        "type": "reference",
+        "title": "Modern C++ for Absolute Beginners: A Friendly Introduction to C++ Programming Language and C++11 to C++20 Standards",
+        "author": "Slobodan Dmitrović",
+        "year": 2020
+      }
+    ]
+  },
+
+  {
+    "subjectCode": "PE 333T",
+    "subjectName": "Natural Language Processing",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "Introduction to Natural Language Processing",
+        "author": "J. Eisenstein",
+        "year": 2019
+      },
+      {
+        "type": "textbook",
+        "title": "Natural Language Processing with Python",
+        "author": "S. Bird, E. Klein, and E. Loper",
+        "year": 2009
+      },
+      {
+        "type": "reference",
+        "title": "Neural Network Methods for Natural Language Processing",
+        "author": "Y. Goldberg",
+        "year": 2017
+      },
+      {
+        "type": "reference",
+        "title": "Text Analytics with Python: A Practitioner’s Guide to Natural Language Processing",
+        "author": "D. Sarkar",
+        "year": 2016
+      },
+      {
+        "type": "reference",
+        "title": "Efficient Estimation of Word Representations in Vector Space",
+        "author": "T. Mikolov et al.",
+        "year": 2013
+      },
+      {
+        "type": "reference",
+        "title": "Attention Is All You Need",
+        "author": "A. Vaswani et al.",
+        "year": 2017
+      },
+      {
+        "type": "reference",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "author": "J. Devlin et al.",
+        "year": 2019
+      }
+    ]
+  },
+
+  {
+    "subjectCode": "EAE 355T",
+    "subjectName": "Statistics and Statistical Modelling",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "Applied Statistics and Probability for Engineers",
+        "author": "D. C. Montgomery and G. C. Runger",
+        "edition": "7th ed.",
+        "year": 2018
+      },
+      {
+        "type": "textbook",
+        "title": "Statistical Inference",
+        "author": "G. Casella and R. L. Berger",
+        "edition": "2nd ed.",
+        "year": 2024
+      },
+      {
+        "type": "reference",
+        "title": "Probability and Statistics for Engineering and the Sciences",
+        "author": "J. L. Devore",
+        "edition": "9th ed.",
+        "year": 2015
+      },
+      {
+        "type": "reference",
+        "title": "Introduction to the Theory of Statistics",
+        "author": "A. M. Mood, F. A. Graybill, and D. C. Boes",
+        "edition": "3rd ed.",
+        "year": 1974
+      },
+      {
+        "type": "reference",
+        "title": "The Elements of Statistical Learning",
+        "author": "T. Hastie, R. Tibshirani, and J. Friedman",
+        "edition": "2nd ed.",
+        "year": 2009
+      }
+    ]
+  },
+
+  {
+    "subjectCode": "PCE 349T",
+    "subjectName": "Advanced Software Architecture and System Design",
+    "books": [
+      {
+        "type": "textbook",
+        "title": "Software Architecture in Practice",
+        "author": "L. Bass, P. Clements, and R. Kazman",
+        "edition": "4th ed.",
+        "year": 2021
+      },
+      {
+        "type": "textbook",
+        "title": "Fundamentals of Software Architecture: An Engineering Approach",
+        "author": "M. Richards and N. Ford",
+        "year": 2020
+      },
+      {
+        "type": "reference",
+        "title": "Designing Data-Intensive Applications",
+        "author": "M. Kleppmann",
+        "year": 2017
+      },
+      {
+        "type": "reference",
+        "title": "Building Microservices",
+        "author": "S. Newman",
+        "edition": "2nd ed.",
+        "year": 2021
+      },
+      {
+        "type": "reference",
+        "title": "Enterprise Integration Patterns",
+        "author": "G. Hohpe and B. Woolf",
+        "year": 2008
+      },
+      {
+        "type": "reference",
+        "title": "Domain-Driven Design",
+        "author": "E. Evans",
+        "year": 2003
+      },
+      {
+        "type": "reference",
+        "title": "Kubernetes: Up and Running",
+        "author": "B. Burns et al.",
+        "edition": "3rd ed.",
+        "year": 2022
+      }
+    ]
+  }
+]

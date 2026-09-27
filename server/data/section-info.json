@@ -1,0 +1,584 @@
+{
+  "sectionId": "CSE-2",
+  "sectionName": "CSE Section 2",
+  "program": "B.Tech./M.Tech. (Dual Degree) Computer Science and Engineering",
+  "branch": "CSE",
+  "batch": "2024-2028",
+  "institute": {
+    "name": "University School of Information and Communication Technology",
+    "shortName": "USICT",
+    "university": "Guru Gobind Singh Indraprastha University",
+    "instituteCode": "164"
+  },
+  "studentCount": 69,
+  "students": [
+    {
+      "name": "Ankush kumar",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06416403224"
+    },
+    {
+      "name": "Umesh Prajapati",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06516403224"
+    },
+    {
+      "name": "Rupender Singh Rathore",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06616403224"
+    },
+    {
+      "name": "Anshul",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06716403224"
+    },
+    {
+      "name": "Akash",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06816403224"
+    },
+    {
+      "name": "Rajat",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06916403224"
+    },
+    {
+      "name": "Adarsh Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07016403224"
+    },
+    {
+      "name": "Gitanshu Goyal",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "7116403224"
+    },
+    {
+      "name": "Prateek Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07216403224"
+    },
+    {
+      "name": "Ankit Kumar",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07316403224"
+    },
+    {
+      "name": "SANYAM",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07416403224"
+    },
+    {
+      "name": "GARVIT",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07516403224"
+    },
+    {
+      "name": "Sabir",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07616403224"
+    },
+    {
+      "name": "Sahil verma",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07716403224"
+    },
+    {
+      "name": "Krish Raj Aryan",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07816403224"
+    },
+    {
+      "name": "Keshav Chaudhary",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "07916403224"
+    },
+    {
+      "name": "Vansh Kumar",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08016403224"
+    },
+    {
+      "name": "Tanish Gahlot",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08116403224"
+    },
+    {
+      "name": "Shubh Gupta",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08216403224"
+    },
+    {
+      "name": "Shaurya Narain Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08316403224"
+    },
+    {
+      "name": "Riyansh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08416403224"
+    },
+    {
+      "name": "YASIR SOHAIL",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08616403224"
+    },
+    {
+      "name": "kishlay singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08716403224"
+    },
+    {
+      "name": "Ashutosh Chaubey",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08816403224"
+    },
+    {
+      "name": "Samarth Gupta",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "08916403224"
+    },
+    {
+      "name": "ROHIT BISHT",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09016403224"
+    },
+    {
+      "name": "DEVESH KUMAR SINGH",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09116403224"
+    },
+    {
+      "name": "ABHISHEK BISHT",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09316403224"
+    },
+    {
+      "name": "Varun",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09416403224"
+    },
+    {
+      "name": "Aarav",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09616403224"
+    },
+    {
+      "name": "JATIN KUMAR",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09716403224"
+    },
+    {
+      "name": "Monu kumar",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09816403224"
+    },
+    {
+      "name": "RAJA KUMAR",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "09916403224"
+    },
+    {
+      "name": "Ayush Gupta",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10016403224"
+    },
+    {
+      "name": "Shivam Kumar Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10116403224"
+    },
+    {
+      "name": "AYUSH KUMAR MISHRA",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10316403224"
+    },
+    {
+      "name": "Athak Mukhija",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10416403224"
+    },
+    {
+      "name": "Mehak",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10516403224"
+    },
+    {
+      "name": "Arnesh Kumar Gupta",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10616403224"
+    },
+    {
+      "name": "Dhruv Seth",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10716403224"
+    },
+    {
+      "name": "Angad Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10816403224"
+    },
+    {
+      "name": "Anubhav Prakash",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "10916403224"
+    },
+    {
+      "name": "Chinmay Kapila",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11016403224"
+    },
+    {
+      "name": "Suraj",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11116403224"
+    },
+    {
+      "name": "VIKRAM SINGH",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11216403224"
+    },
+    {
+      "name": "ANUBHAV TIWARI",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11316403224"
+    },
+    {
+      "name": "Piyush Mishra",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11416403224"
+    },
+    {
+      "name": "Sarthak Narula",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11616403224"
+    },
+    {
+      "name": "Vikas Bhardwaj",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11716403224"
+    },
+    {
+      "name": "Zandu",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11816403224"
+    },
+    {
+      "name": "Aaryan Garg",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "11916403224"
+    },
+    {
+      "name": "GUNEET SINGH",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12016403224"
+    },
+    {
+      "name": "Yash Malhotra",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12116403224"
+    },
+    {
+      "name": "TUSHAR KASHYAP",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12316403224"
+    },
+    {
+      "name": "Arjun Meena",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12416403224"
+    },
+    {
+      "name": "Vidhit Gill",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12516403224"
+    },
+    {
+      "name": "Krish Ahuja",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "12616403224"
+    },
+    {
+      "name": "Vanshdi Singla",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "06716401524"
+    },
+    {
+      "name": "Vigyat",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "03016403223"
+    },
+    {
+      "name": "Aryan Ghai",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "00216401524"
+    },
+    {
+      "name": "Yash Gupta",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "90216403225"
+    },
+    {
+      "name": "Anant Sharma",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "90116403225"
+    },
+    {
+      "name": "Dheeraj Singh",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "90616403225"
+    },
+    {
+      "name": "Devanshu malik",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "04516403223"
+    },
+    {
+      "name": "Harpreet",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "90716403225"
+    },
+    {
+      "name": "Rahul Solanki",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "91316403225"
+    },
+    {
+      "name": "TUSHAR DAHIYA",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "91816403225"
+    },
+    {
+      "name": "Ishant Sharma",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "91716403225"
+    },
+    {
+      "name": "Anant Tehlan",
+      "achievements": [],
+      "profileLinks": [],
+      "dataStatus": "admission-list data; academic fields to be populated from ranklist",
+      "rollNo": "91216403225"
+    }
+  ],
+  "academicSources": {
+    "semester1": {
+      "url": "https://www.ipuranklist.com/ranklist/btech?batch=24&branch=CSE&insti=164&sem=1",
+      "description": "IPU Ranklist B.Tech CSE, batch 2024, USICT, semester 1",
+      "status": "source URL supplied for later academic-data enrichment"
+    },
+    "semester2": {
+      "url": "https://www.ipuranklist.com/ranklist/btech?batch=24&branch=CSE&insti=164&sem=2",
+      "description": "IPU Ranklist B.Tech CSE, batch 2024, USICT, semester 2",
+      "status": "source URL supplied for later academic-data enrichment"
+    }
+  },
+  "feeStructure": {
+    "currency": "INR",
+    "source": "User-provided fee structure image",
+    "academicYears": [
+      {
+        "year": "2024-25",
+        "tuitionFeePerAnnum": 140000,
+        "universityChargesPerAnnum": 20000,
+        "alumniContributionOneTime": 2000,
+        "examinationFeePerAnnum": 3000,
+        "innovationIncubationFeePerAnnum": 500,
+        "developmentInfrastructureChargesPerAnnum": 10000,
+        "totalShownInProvidedImage": 175500
+      },
+      {
+        "year": "2025-26",
+        "tuitionFeePerAnnum": 154000,
+        "universityChargesPerAnnum": 20000,
+        "alumniContributionOneTime": 0,
+        "examinationFeePerAnnum": 3000,
+        "innovationIncubationFeePerAnnum": 500,
+        "developmentInfrastructureChargesPerAnnum": 10000,
+        "totalShownInProvidedImage": 187500
+      },
+      {
+        "year": "2026-27",
+        "tuitionFeePerAnnum": 169400,
+        "universityChargesPerAnnum": 20000,
+        "alumniContributionOneTime": 0,
+        "examinationFeePerAnnum": 3000,
+        "innovationIncubationFeePerAnnum": 500,
+        "developmentInfrastructureChargesPerAnnum": 10000,
+        "totalShownInProvidedImage": 202900
+      },
+      {
+        "year": "2027-28",
+        "tuitionFeePerAnnum": 186340,
+        "universityChargesPerAnnum": 20000,
+        "alumniContributionOneTime": 0,
+        "examinationFeePerAnnum": 3000,
+        "innovationIncubationFeePerAnnum": 500,
+        "developmentInfrastructureChargesPerAnnum": 10000,
+        "totalShownInProvidedImage": 219840
+      }
+    ]
+  },
+  "sectionAnalytics": {
+    "topStudents": []
+  },
+  "plannedFeatures": {
+    "studentSearch": true,
+    "semesterWiseAcademicHistory": true,
+    "cgpaLeaderboard": "only if ranking data is available and appropriate to expose",
+    "subjectWisePerformance": true,
+    "achievementShowcase": true,
+    "studentInterestsAndSkills": true,
+    "placementPreparationProfiles": true,
+    "sectionStatistics": true,
+    "feeOverview": true,
+    "noticesRelevantToSection": true
+  },
+  "privacy": {
+    "note": " academic records and other private data should be exposed only to authorized users in the deployed portal. but enrollment number can be shared ",
+    "publicProfileFields": [
+      "name",
+      "optionalSkills",
+      "optionalAchievements"
+    ],
+    "restrictedFields": [
+      "academicRecords",
+      "personalContactInformation"
+    ]
+  }
+}
