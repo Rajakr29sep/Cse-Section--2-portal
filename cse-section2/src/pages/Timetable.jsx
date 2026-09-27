@@ -64,7 +64,7 @@ export default function Timetable() {
         setLoading(true);
 
         const response = await fetch(
-          `http://localhost:5000/api/timetable?day=${selectedDay}`, //serverurl
+          `https://my-cse-section-2.onrender.com/api/timetable?day=${selectedDay}`, //serverurl
         );
 
         const result = await response.json();
