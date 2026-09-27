@@ -25,7 +25,7 @@ import {
 
 import { Link } from "react-router-dom";
 
-const API_URL = "http://localhost:5000/api/section-ai";
+const API_URL = "https://my-cse-section-2.onrender.com/";
 
 const starterQuestions = [
   "What is our timetable for tomorrow?",
